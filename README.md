@@ -5,15 +5,6 @@
 
 ---
 
-## 🌱 About Me
-I am a first-year student passionate about learning programming, artificial intelligence, and bioinformatics. I am currently exploring the basics of coding and data science.
-
----
-
-## 🎯 My Goal
-I aim to develop strong skills in AI and bioinformatics and build meaningful projects that solve real-world problems.
-
----
 
 ## 🛠️ Skills (Beginner)
 - Python (Basics)
