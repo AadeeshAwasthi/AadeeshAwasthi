@@ -2,7 +2,6 @@
 
 🎓 B.Tech in Bioinformatics and Artificial Intelligence  
 🏫 VIT Bhopal University  
-📅 1st Year (Expected Graduation: 2029)
 
 ---
 
@@ -20,13 +19,6 @@ I aim to develop strong skills in AI and bioinformatics and build meaningful pro
 - Python (Basics)
 - C Programming (Basics)
 - Problem Solving
-
----
-
-## 📚 Currently Learning
-- Data Structures and Algorithms  
-- Machine Learning Basics  
-- Bioinformatics Tools  
 
 ---
 
